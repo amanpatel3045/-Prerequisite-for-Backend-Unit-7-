@@ -6,13 +6,13 @@
 ##ES6
 
 
-##Closures
-##Promises
-##Async Await
-##Fetch Axios
-##GET, POST,PUT,PATCH,DELETE
+## Closures
+## Promises
+## Async Await
+## Fetch Axios
+## GET, POST,PUT,PATCH,DELETE
 
 
-##API
-##JSON Server
+## API
+## JSON Server
 
