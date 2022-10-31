@@ -1,9 +1,9 @@
-# -Brerequisite-for-Backend-Unit-7-
+# -Prerequisite-for-Backend-Unit-7-
 
 
 ## Javascript 
 ## Event Loop
-##ES6
+## ES6
 
 
 ## Closures
